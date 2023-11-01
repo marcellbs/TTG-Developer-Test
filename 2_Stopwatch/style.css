@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+}
+
+.stopwatch {
+  margin: 100px auto;
+  text-align: center;
+}
+
+.display {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+#stop{
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#stop:hover{
+  background-color: #da190b;
+}
+
+#flag{
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#flag:hover{
+  background-color: #46a049;
+}
+
+#startPause{
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#startPause:hover{
+  background-color: #007a99;
+}
+
+

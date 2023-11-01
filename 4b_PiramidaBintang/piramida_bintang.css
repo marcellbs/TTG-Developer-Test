@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  margin: 10px;
+}
+
+label {
+  font-weight: bold;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #0074d9;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#output {
+  font-size: 24px;
+
+}
+
+.input {
+  /* border: #0074d9 2px solid; */
+  flex-wrap: wrap;
+}
+
+.input .label {
+  flex: 1 1 100%;
+  text-align: center;
+  padding: 5px;
+}
+
+.input .tingkat {
+  flex: 1 1 100%;
+  text-align: center;
+  padding: 5px;
+}
+
+.input .tingkat button {
+  border-radius: 5px;
+  padding: 10px;
+}
+.input .tingkat input {
+  border-radius: 5px;
+  padding: 10px;
+  
+}
+
+.hasil .output{
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.hasil label {
+  flex: 1 1 100%;
+  padding: 5px;
+  margin: 0;
+}
+
+
+

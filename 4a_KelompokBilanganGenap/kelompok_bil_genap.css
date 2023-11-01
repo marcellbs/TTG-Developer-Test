@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+#app .form{
+  margin: 10px;
+}
+
+input {
+  width: 50px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: blueviolet;
+  background-color: lavender;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 20px;
+}
