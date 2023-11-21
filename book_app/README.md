@@ -9,6 +9,8 @@
  
 - Instalasi Dependency menggunakan perintah
   - `composer install`
+- Copy file `.env`
+  - `cp .env.example .env`
 - Generete key menggunakan perintah
     - `php artisan key:generate`
 - Copy File SQL ke dalam Database XAMPP
