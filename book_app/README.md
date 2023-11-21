@@ -6,7 +6,9 @@
  
 - Untuk menggunakan Aplikasi ini, clone repository ini :
     - `https://github.com/marcellbs/TTg-Developer-Test/book_app/`
-
+ 
+- Instalasi Dependency menggunakan perintah
+  - `composer install`
 - Generete key menggunakan perintah
     - `php artisan key:generate`
 - Copy File SQL ke dalam Database XAMPP
