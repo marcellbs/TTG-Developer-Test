@@ -20,7 +20,7 @@
     2. Di terminal 2 ketikkan :
            `php artisan serve --port:8001`
 - Setalah itu aplikasi bisa dijalankan dengan mengunjung :
-    - laman `http://localhost:8000/api/buku` digunakan untuk melihat isi daripada api yanng dibuat
+    - laman `http://localhost:8000/api/buku` digunakan untuk melihat isi daripada api yang dibuat
     - laman `http://localhost:8001/buku` digunakan untuk halaman frontend
  
 - Informasi
