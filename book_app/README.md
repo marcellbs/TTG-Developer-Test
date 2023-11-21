@@ -18,7 +18,8 @@
     2. Di terminal 2 ketikkan :
            `php artisan serve --port:8001`
 - Setalah itu aplikasi bisa dijalankan dengan mengunjung :
-    - `http://localhost:8000/buku`
+    - laman `http://localhost:8000` digunakan untuk melihat isi daripada api yanng dibuat
+    - laman `http://localhost:8001/buku` digunakan untuk halaman frontend
  
 - Informasi
     - Laravel tidak dapat menjalankan 2 route sekaligus, dikarenakan laravel hanya bisa menangani 1 thread sehingga akan terjadi infinite loading yang menyebabkan aplikasi tidak dapat dipakai.
